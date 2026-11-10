@@ -14,4 +14,5 @@
 structs
 json_data
 interfaces
+enums
 generics
